@@ -1,0 +1,12 @@
+# run through command prompt
+
+python run.py input.jpg output.jpg     # commands
+
+python run.py input2.jpg output.jpg
+python run.py input3.jpg output.jpg
+python run.py input4.jpg output.jpg
+python run.py input5.jpg output.jpg
+........
+
+# input.jpg = my input image name
+# output.jpg = you can change it with any name or or leave it

@@ -1,0 +1,4 @@
+tensorflow
+Pillow
+pip install matplotlib==3.2  
+numpy
